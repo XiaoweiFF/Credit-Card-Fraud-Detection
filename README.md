@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-Project Description
+##Project Description
 
 Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably aren’t thinking about the data science that determined your fate.
 
@@ -16,7 +16,7 @@ If successful, you’ll improve the efficacy of fraudulent transaction alerts fo
 
 Vesta Corporation provided the dataset for this competition. Vesta Corporation is the forerunner in guaranteed e-commerce payment solutions. Founded in 1995, Vesta pioneered the process of fully guaranteed card-not-present (CNP) payment transactions for the telecommunications industry. Since then, Vesta has firmly expanded data science and machine learning capabilities across the globe and solidified its position as the leader in guaranteed ecommerce payments. Today, Vesta guarantees more than $18B in transactions annually.
 
-Data Description
+##Data Description
 
 Transaction Table 
 TransactionDT: timedelta from a given reference datetime (not an actual timestamp)
